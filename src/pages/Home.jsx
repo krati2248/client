@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
 import { Link, useLocation, useNavigate } from 'react-router-dom';
-import { useGetjobsQuery } from '../features/job/jobapi';
+import { useGetjobsQuery } from '../features/job/jobApi';
 import { useApplicantcounQuery, useCardQuery, useCategoriesQuery, useCatnameMutation, useCdQuery, useCheckSessionQuery, useDpostQuery, useFtypeMutation, useGetpostQuery, useApplyScardMutation } from '../features/auth/authApi';
 import { useDispatch } from 'react-redux';
 import { setCategory } from '../features/job/jobSlice';
