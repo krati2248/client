@@ -35,7 +35,7 @@ const Jobdetail = () => {
   const h = () => {
     return (
       
-      user.phone && ph.test(user.phone) &&
+      user.phone && ph.test(user.phone)
       
     )
   }
