@@ -1,7 +1,9 @@
+# Client – Job Portal Frontend
+
 This is the frontend of the Job Portal Application, built using React, Redux Toolkit, RTK Query, and React Router.
 The frontend interacts with the backend API to allow users to register, log in, apply for jobs, create job posts, and manage their profile.
 
-🚀 Features
+## 🚀 Features
 
 User Registration & Login (JWT + Cookies)
 
@@ -25,9 +27,9 @@ Toast Notifications
 
 Secure API requests using RTK Query
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Frontend
+### Frontend
 
 React.js
 
@@ -41,7 +43,7 @@ Bootstrap
 
 Toast notifications
 
-Screenshots
+## Screenshots
 
 <img width="1857" height="816" alt="Screenshot 2025-11-23 174500" src="https://github.com/user-attachments/assets/c6809d93-0869-4046-908a-e29c085505fc" />
 
