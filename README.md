@@ -1,12 +1,36 @@
-# React + Vite
+This is the frontend of the Job Portal Application, built using React, Redux Toolkit, RTK Query, and React Router.
+The frontend interacts with the backend API to allow users to register, log in, apply for jobs, create job posts, and manage their profile.
+🚀 Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+User Registration & Login (JWT + Cookies)
 
-Currently, two official plugins are available:
+Forgot Password & Reset Password
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Role-based access (Admin / User)
 
-## Expanding the ESLint configuration
+Job Post Creation & Editing
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+View All Job Posts
+
+Apply for Jobs
+
+React Router Navigation
+
+Fully Responsive UI
+
+Form Validation
+
+Toast Notifications
+
+Secure API requests using RTK Query
+
+🛠️ Tech Stack
+Frontend
+React.js
+Redux Toolkit
+RTK Query
+React Router DOM
+Bootstrap
+Toast notifications
+
+Portal link: https://client-x6vi.vercel.app/
