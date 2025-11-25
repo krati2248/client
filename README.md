@@ -41,4 +41,18 @@ Bootstrap
 
 Toast notifications
 
-Portal link: https://client-x6vi.vercel.app/
+Screenshots
+
+<img width="1857" height="816" alt="Screenshot 2025-11-23 174500" src="https://github.com/user-attachments/assets/c6809d93-0869-4046-908a-e29c085505fc" />
+
+
+<img width="1879" height="793" alt="Screenshot 2025-11-23 174811" src="https://github.com/user-attachments/assets/0c6418c7-6518-4c67-87c0-2871f74085be" />
+
+
+
+
+
+
+
+
+Project link: https://client-x6vi.vercel.app
